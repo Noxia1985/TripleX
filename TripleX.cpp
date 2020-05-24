@@ -1,7 +1,7 @@
 #include <iostream>
 
-int main () // this is a comment
+int main () 
 {
-    int notFloat = 5;
-    return 0; //t
+     return 0; 
 }
+
